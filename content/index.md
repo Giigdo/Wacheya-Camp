@@ -14,3 +14,6 @@ design, bringing a new game into life together! No prior digital design experien
 required
 
 ![[Screenshot 2026-03-13 at 8.38.48 PM.png]]
+
+[[Day 1]]
+
