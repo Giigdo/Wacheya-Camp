@@ -4,6 +4,7 @@ title: Home
 
 # Welcome to Aandaakinogewin 
 ## Art and Video Game Design Camp for Indigenous Youth Camp
+[[Day 1]]
 
 *March Break Camp, Monday March 16-Friday March 20*
 
